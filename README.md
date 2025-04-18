@@ -39,7 +39,7 @@ Git • GitHub • Responsive Design • UI/UX Principles
 ## 📫 Let's Connect!
 
 Feel free to reach out for collaborations, freelance work, or just to talk tech! 
-📩 **Email:** muneebktktech@gmail.com
+📩 Email: muneebktktech@gmail.com
 🔗 **LinkedIn:**[ Muneeb Shah
 ](https://www.linkedin.com/in/muneeb-shah-63981a29a/)
 
