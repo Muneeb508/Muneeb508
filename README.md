@@ -1,54 +1,46 @@
 👋 Hey there, I'm Muneeb!
 
-Welcome to my GitHub. I’m a developer who works across WordPress, MERN, and Next.js, building everything from dynamic websites to full web applications.
+Welcome to my GitHub! I'm a passionate WordPress Developer, and I also work with the MERN stack and Next.js to build responsive, fast, and user-friendly websites and applications.
 
 🚀 About Me
 
-I enjoy creating clean, fast, and user-friendly digital experiences.
-Whether it’s a custom WordPress setup or a modern JavaScript app, I focus on clarity, performance, and a smooth user experience.
-
-I also work on SEO, Elementor customization, and improving overall site performance to keep things running well on both the frontend and backend.
+💻 I create modern web experiences ranging from custom WordPress sites to full web apps built with MERN and Next.js.
+🎯 I focus on clean code, solid performance, and good user experience across every project.
+🔍 I’m also experienced in SEO optimization, Elementor customization, and building WordPress setups that look great and perform even better.
 
 🛠️ Tech Stack & Tools
-WordPress Development
+Languages & Frameworks:
 
-✔ Theme & Plugin Customization
-✔ Elementor
-✔ WooCommerce
-✔ SEO Optimization
-✔ Speed & Core Web Vitals
+HTML • CSS • JavaScript • TypeScript • React
 
-MERN Stack
+WordPress Expertise:
+
+✔️ Elementor
+✔️ Theme & Plugin Customization
+✔️ SEO Best Practices
+✔️ WooCommerce Integration
+
+MERN Stack:
 
 MongoDB • Express.js • React • Node.js
-Used for building scalable web applications and APIs.
 
-Next.js
+Next.js:
 
-✔ Server-Side Rendering
-✔ Static Site Generation
-✔ API Routes
-✔ Vercel Deployment
-Perfect for modern, fast, and SEO-friendly apps.
+SSR • SSG • API Routes • Vercel Deployment
 
-Languages & Tools
+Others:
 
-HTML • CSS • JavaScript • TypeScript
-Git • GitHub • Responsive Design • UI/UX Basics
+Git • GitHub • Responsive Design • UI/UX Principles
 
 🌱 Currently Exploring
 
-Headless WordPress (REST API + Next.js)
+📦 Headless WordPress (REST API + React / Next.js)
+🌐 JAMstack workflows
+☁️ Hosting & Deployment with Vercel, Netlify
 
-JAMstack workflows
+📫 Let's Connect!
 
-Scalable MERN apps
-
-Modern deployment setups on Vercel and Netlify
-
-📫 Let’s Connect
-
-Open to projects, collaborations, or a quick tech chat.
+Feel free to reach out for collaborations, freelance work, or even a simple tech chat.
 
 📩 Email: muneebktktech@gmail.com
 
