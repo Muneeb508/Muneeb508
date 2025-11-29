@@ -1,50 +1,55 @@
-# 👋 Hey there, I'm Muneeb!
+👋 Hey there, I'm Muneeb!
 
-Welcome to my GitHub! I'm a passionate **WordPress & Frontend Developer** with a knack for building responsive, fast, and user-friendly websites that stand out.
+Welcome to my GitHub. I’m a developer who works across WordPress, MERN, and Next.js, building everything from dynamic websites to full web applications.
 
----
+🚀 About Me
 
-## 🚀 About Me
+I enjoy creating clean, fast, and user-friendly digital experiences.
+Whether it’s a custom WordPress setup or a modern JavaScript app, I focus on clarity, performance, and a smooth user experience.
 
-💻 I specialize in crafting beautiful UIs and dynamic websites using modern technologies and tools like **React**, **TypeScript**, and **WordPress**.  
-🎯 My focus is on performance, accessibility, and clean, maintainable code — whether it's a marketing site or a full-fledged web app.  
-🔍 I’m also experienced in **SEO optimization**, **Elementor customization**, and making WordPress sites that are as powerful under the hood as they are on the surface.
+I also work on SEO, Elementor customization, and improving overall site performance to keep things running well on both the frontend and backend.
 
----
+🛠️ Tech Stack & Tools
+WordPress Development
 
-## 🛠️ Tech Stack & Tools
+✔ Theme & Plugin Customization
+✔ Elementor
+✔ WooCommerce
+✔ SEO Optimization
+✔ Speed & Core Web Vitals
 
-**Languages & Frameworks:**  
-HTML • CSS • JavaScript • TypeScript • React
+MERN Stack
 
-**WordPress Expertise:**  
-✔️ Elementor  
-✔️ Theme & Plugin Customization  
-✔️ SEO Best Practices  
-✔️ WooCommerce Integration
+MongoDB • Express.js • React • Node.js
+Used for building scalable web applications and APIs.
 
-**Others:**  
-Git • GitHub • Responsive Design • UI/UX Principles
+Next.js
 
----
+✔ Server-Side Rendering
+✔ Static Site Generation
+✔ API Routes
+✔ Vercel Deployment
+Perfect for modern, fast, and SEO-friendly apps.
 
-## 🌱 Currently Exploring
+Languages & Tools
 
-📦 Headless WordPress (REST API + React)  
-🌐 JAMstack & static site generators  
-☁️ Hosting & Deployment with Netlify, Vercel
+HTML • CSS • JavaScript • TypeScript
+Git • GitHub • Responsive Design • UI/UX Basics
 
----
+🌱 Currently Exploring
 
-## 📫 Let's Connect!
+Headless WordPress (REST API + Next.js)
 
-Feel free to reach out for collaborations, freelance work, or just to talk tech! 
+JAMstack workflows
 
-📩 **Email:** muneebktktech@gmail.com
+Scalable MERN apps
 
-💼 **LinkedIn:** [ Muneeb Shah
-](https://www.linkedin.com/in/muneeb-shah-63981a29a/) 
+Modern deployment setups on Vercel and Netlify
 
----
+📫 Let’s Connect
 
-Thanks for stopping by — let’s build something awesome together! 🚀
+Open to projects, collaborations, or a quick tech chat.
+
+📩 Email: muneebktktech@gmail.com
+
+💼 LinkedIn: Muneeb Shah
