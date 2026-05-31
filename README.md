@@ -167,6 +167,4 @@ WordPress / SEO                  ███████████████�
 
 ---
 
-<div align="center">
-<sub>Made with ❤️ by Muneeb Shah — Islamabad, PK</sub>
-</div>
+
