@@ -149,9 +149,13 @@ WordPress / SEO                  ███████████████�
 
 <div align="center">
 
-![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muneeb508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muneeb508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&count_private=true" alt="Muneeb's GitHub Stats" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb508&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muneeb508&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&langs_count=8" alt="Top Languages" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Muneeb508&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=EF9F27&currStreakLabel=7F77DD" alt="GitHub Streak" />
 
 </div>
 
