@@ -31,60 +31,7 @@
 
 <!-- ── SCROLLING TECH TICKER (animated SVG) ── -->
 <div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
-  <defs>
-    <style>
-      .bg { fill: none; }
-      .border-line { stroke: #AFA9EC; stroke-width: 0.5; opacity: 0.4; }
-      .ticker-text { font-family: 'Fira Code', 'Courier New', monospace; font-size: 12.5px; font-weight: 600; fill: #9490D6; }
-      .dot { fill: #7F77DD; }
-      @keyframes scroll {
-        0%   { transform: translateX(0); }
-        100% { transform: translateX(-50%); }
-      }
-      .track { animation: scroll 22s linear infinite; }
-    </style>
-    <clipPath id="clip">
-      <rect x="0" y="0" width="800" height="40" />
-    </clipPath>
-  </defs>
 
-  <!-- Border lines top and bottom -->
-  <line class="border-line" x1="0" y1="0.5" x2="800" y2="0.5"/>
-  <line class="border-line" x1="0" y1="39.5" x2="800" y2="39.5"/>
-
-  <!-- Clipped scrolling area -->
-  <g clip-path="url(#clip)">
-    <g class="track">
-      <!-- First copy -->
-      <text class="ticker-text" x="10"   y="25"><tspan class="dot">◆ </tspan>LangChain</text>
-      <text class="ticker-text" x="120"  y="25"><tspan class="dot">◆ </tspan>LangGraph</text>
-      <text class="ticker-text" x="234"  y="25"><tspan class="dot">◆ </tspan>CrewAI</text>
-      <text class="ticker-text" x="322"  y="25"><tspan class="dot">◆ </tspan>RAG Systems</text>
-      <text class="ticker-text" x="448"  y="25"><tspan class="dot">◆ </tspan>OpenAI API</text>
-      <text class="ticker-text" x="565"  y="25"><tspan class="dot">◆ </tspan>Anthropic Claude</text>
-      <text class="ticker-text" x="720"  y="25"><tspan class="dot">◆ </tspan>Groq</text>
-      <text class="ticker-text" x="790"  y="25"><tspan class="dot">◆ </tspan>Next.js</text>
-      <text class="ticker-text" x="886"  y="25"><tspan class="dot">◆ </tspan>React</text>
-      <text class="ticker-text" x="958"  y="25"><tspan class="dot">◆ </tspan>FastAPI</text>
-      <text class="ticker-text" x="1050" y="25"><tspan class="dot">◆ </tspan>Python</text>
-      <text class="ticker-text" x="1134" y="25"><tspan class="dot">◆ </tspan>TypeScript</text>
-      <!-- Second copy (seamless loop) -->
-      <text class="ticker-text" x="1242" y="25"><tspan class="dot">◆ </tspan>LangChain</text>
-      <text class="ticker-text" x="1352" y="25"><tspan class="dot">◆ </tspan>LangGraph</text>
-      <text class="ticker-text" x="1466" y="25"><tspan class="dot">◆ </tspan>CrewAI</text>
-      <text class="ticker-text" x="1554" y="25"><tspan class="dot">◆ </tspan>RAG Systems</text>
-      <text class="ticker-text" x="1680" y="25"><tspan class="dot">◆ </tspan>OpenAI API</text>
-      <text class="ticker-text" x="1797" y="25"><tspan class="dot">◆ </tspan>Anthropic Claude</text>
-      <text class="ticker-text" x="1952" y="25"><tspan class="dot">◆ </tspan>Groq</text>
-      <text class="ticker-text" x="2022" y="25"><tspan class="dot">◆ </tspan>Next.js</text>
-      <text class="ticker-text" x="2118" y="25"><tspan class="dot">◆ </tspan>React</text>
-      <text class="ticker-text" x="2190" y="25"><tspan class="dot">◆ </tspan>FastAPI</text>
-      <text class="ticker-text" x="2282" y="25"><tspan class="dot">◆ </tspan>Python</text>
-      <text class="ticker-text" x="2366" y="25"><tspan class="dot">◆ </tspan>TypeScript</text>
-    </g>
-  </g>
-</svg>
 <img src="./ticker.svg" alt="Tech stack ticker" width="800" />
 
 </div>
