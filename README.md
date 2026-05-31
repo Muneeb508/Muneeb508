@@ -29,10 +29,10 @@
 
 ---
 
-<!-- ── SCROLLING TECH TICKER (static badge row — GitHub has no JS) ── -->
+<!-- ── SCROLLING TECH TICKER (animated SVG) ── -->
 <div align="center">
 
-◆ `LangChain` &nbsp;◆ `LangGraph` &nbsp;◆ `CrewAI` &nbsp;◆ `RAG Systems` &nbsp;◆ `OpenAI API` &nbsp;◆ `Anthropic Claude` &nbsp;◆ `Groq` &nbsp;◆ `Next.js` &nbsp;◆ `React` &nbsp;◆ `FastAPI` &nbsp;◆ `Python` &nbsp;◆ `TypeScript`
+<img src="./ticker.svg" alt="Tech stack ticker" width="800" />
 
 </div>
 
@@ -166,5 +166,4 @@ WordPress / SEO                  ███████████████�
 [![GitHub](https://img.shields.io/badge/GitHub-Muneeb508-%23333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muneeb508)
 
 ---
-
 
